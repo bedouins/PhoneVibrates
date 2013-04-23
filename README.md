@@ -1,0 +1,4 @@
+PhoneVibrates
+=============
+
+iOS Vibrates Demo
